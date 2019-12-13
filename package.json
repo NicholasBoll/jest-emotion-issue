@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^24.0.23",
+    "jest-emotion": "^10.0.26",
+    "typescript": "^3.7.3"
+  }
+}
